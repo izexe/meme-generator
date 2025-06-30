@@ -1,17 +1,17 @@
 const memes = [
   {
-    img: "memes/meme1.webp",
+    img: "meme1.webp",
   },
   {
-    img: "memes/meme2.jpg",
+    img: "meeme2.jpg",
    
   },
   {
-    img: "memes/meme3.webp",
+    img: "meme3.webp",
 
   },
   {
-    img: "memes/meme4.webp",
+    img: "meme4.webp",
   }
 ];
 document.getElementById("generate").addEventListener("click", () => {
